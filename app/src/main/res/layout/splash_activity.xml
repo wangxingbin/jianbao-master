@@ -17,7 +17,7 @@
         android:layout_gravity="right|top"
         android:layout_marginLeft="50dp"
         android:layout_marginTop="20dp"
-        android:text="倒数："
+        android:text="倒数：--------------------------"
         android:textColor="#000"
         android:textSize="16sp" />
 
